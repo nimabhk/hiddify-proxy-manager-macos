@@ -118,7 +118,7 @@ This software is free for personal, non-commercial use. You are free to edit, up
 -   Any direct commercial use (even by a single person).
 -   Inclusion or use of any part of this script in another software product.
 
-For commercial licensing inquiries, please contact me at: **moderndesigner@outlook.com**
+For commercial licensing inquiries, please contact me at: **moderndesigner AT outlook dot com**
 
 ### 💰 Donations
 
