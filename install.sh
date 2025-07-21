@@ -5,7 +5,7 @@
 # ==============================================================================
 
 # --- Configuration ---
-SCRIPT_NAME="manager.sh"
+SCRIPT_NAME="hiddify-proxy-manager.sh"
 PLIST_TEMPLATE_NAME="template.plist"
 PLIST_FINAL_NAME="com.user.hiddifyproxymanager.plist"
 INSTALL_DIR="$HOME/.local/share/hiddify-proxy-manager"
